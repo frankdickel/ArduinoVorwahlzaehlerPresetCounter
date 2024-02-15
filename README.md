@@ -8,5 +8,6 @@ Verwendete Hardware:
     Relaiskarte 1-Kanal
     16x02 I2C LCD Modul
     Reedkontakt als Sensor
+    2 Miniatur-Drucktaster
 
 13.02.2024
