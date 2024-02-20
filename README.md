@@ -1,4 +1,4 @@
-Arduino Sketch für Vorwahlzaehler
+Arduino Sketch für Vorwahlzaehler / Preset Counter
 
 Verwendete Hardware:
 
