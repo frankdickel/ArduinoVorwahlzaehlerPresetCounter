@@ -1,6 +1,6 @@
 Arduino Sketch für Vorwahlzaehler / Preset Counter
 
-Verwendete Hardware:
+Verwendete Hardware / hardware used:
 
     Arduino Uno R3
     FRAM 32KB
